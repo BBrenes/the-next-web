@@ -114,6 +114,10 @@ header a:hover{
     margin: 0 auto 0 auto;
     padding: 6px 10px;
     background-color: #ffffff;
+
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 .top-menu .nav-left{
@@ -173,6 +177,9 @@ header a:hover{
     padding: 10px;
     background-color: #ffd900;
     font-size: 12px;
+    position: sticky;
+    top: 39px;
+    z-index: 1;
 }
 
 /* TOP */
